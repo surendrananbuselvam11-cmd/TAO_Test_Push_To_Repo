@@ -1,0 +1,25 @@
+{
+  "artifact": {
+    "project_id": "023717a8-ff08-40fb-bb96-ee5e07fe4f43",
+    "built_at": "2026-02-23T09:05:02Z",
+    "build_number": 20260223143502
+  },
+  "generator_config": [
+    {
+      "testcase_id": "",
+      "model_key": null,
+      "generation_mode": "REFACTOR",
+      "page_url": "https://service-stage-app.connectcdk.com/Default.aspx?cid=320006",
+      "use_cdp_capture": null,
+      "similarity_threshold": null
+    }
+  ],
+  "entries": [
+    {
+      "testcase_id": "",
+      "framework": "selenium",
+      "language": "java",
+      "root_prefix": "selenium/java"
+    }
+  ]
+}

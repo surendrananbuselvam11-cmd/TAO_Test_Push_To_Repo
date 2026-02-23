@@ -1,0 +1,99 @@
+{
+  "project_id": "023717a8-ff08-40fb-bb96-ee5e07fe4f43",
+  "testcase_id": "",
+  "framework": "selenium",
+  "language": "java",
+  "generated_at": "2026-02-23T09:05:02Z",
+  "files": [
+    {
+      "path": "selenium/java/src/test/java/com/tests/PartsROTest.java",
+      "operation": "create",
+      "size": 3046,
+      "sha256": "79c5e6cedfb35d3b5e7587082fa6e4403b705cd0edd8121cc3534ae3e00a7e25"
+    },
+    {
+      "path": "selenium/java/src/test/resources/settings.properties",
+      "operation": "create",
+      "size": 142,
+      "sha256": "972bf3564fa79f9abfa2b835439b2d68d4fe0b1bc5c2f0153548b896e9f69962"
+    },
+    {
+      "path": "selenium/java/src/test/resources/testng.xml",
+      "operation": "create",
+      "size": 285,
+      "sha256": "36776ec807e0599fe2134d028df66905a42c1e012247890e213d069934ced9dc"
+    },
+    {
+      "path": "selenium/java/src/test/resources/157b8633-2f2d-4d4c-8b4e-eeb190d12aa4.json",
+      "operation": "create",
+      "size": 338,
+      "sha256": "cd5332afda3c7ee5fd040def6067ad28d8531c91b483ce756f96160552aec5eb"
+    },
+    {
+      "path": "selenium/java/src/main/java/pages/AutoPage.java",
+      "operation": "create",
+      "size": 562,
+      "sha256": "a46503e9dabb545710ecc25ed8f9e459f82813f696a3cacd18e1487d5811984b"
+    },
+    {
+      "path": "selenium/java/src/main/java/base/BaseTest.java",
+      "operation": "create",
+      "size": 1103,
+      "sha256": "fcecbaa69745198c044e3f4c9475edd84b68e585514995818d88bf9286c4a9b5"
+    },
+    {
+      "path": "selenium/java/src/main/java/utils/WaitUtils.java",
+      "operation": "create",
+      "size": 406,
+      "sha256": "a17527a1ec9cb256632ca6946b1fa2ab86fa20a9e465514253f62e634c36b9de"
+    },
+    {
+      "path": "selenium/java/src/main/java/utils/ElementUtils.java",
+      "operation": "create",
+      "size": 261,
+      "sha256": "34a4d609c33fd50e8989a460205fe9f2b37ab41d0ace92c23eecaf900ed39af9"
+    },
+    {
+      "path": "selenium/java/src/main/java/pages/LoginPage.java",
+      "operation": "create",
+      "size": 1210,
+      "sha256": "eead98ffcc3bede308f85e306ee2552ac26012c0435afbb03436714bca461c2f"
+    },
+    {
+      "path": "selenium/java/src/main/java/pages/PartsDashboardPage.java",
+      "operation": "create",
+      "size": 1039,
+      "sha256": "2e52b59d67e16b238291fead295ae35728e45c94f02774bac08d8eb7071b8278"
+    },
+    {
+      "path": "selenium/java/src/main/java/pages/ServicePartsCounterPage.java",
+      "operation": "create",
+      "size": 951,
+      "sha256": "856a813fc4ffdf55822f49d0745db5e2d9d705acf9164688bf43eb7c3157b21a"
+    },
+    {
+      "path": "selenium/java/src/main/java/pages/PartsOfROPage.java",
+      "operation": "create",
+      "size": 1441,
+      "sha256": "f25b08be395156267f227fb7ff4a4047583b1922fe6dde40af66767867b95b36"
+    },
+    {
+      "path": "selenium/java/pom.xml",
+      "operation": "create",
+      "size": 1817,
+      "sha256": "54202366ee1a0278d77893d4fe807c90333d8791bb4035aa6690ff13e907a976"
+    },
+    {
+      "path": "selenium/java/.env.example",
+      "operation": "create",
+      "size": 162,
+      "sha256": "44b0f1078d72d43a69c6f5273d545addb47531808beb75df79c220e6cb6d4222"
+    },
+    {
+      "path": "selenium/java/src/main/java/pages/AutoPage.java",
+      "operation": "create",
+      "size": 883,
+      "sha256": "37ce865785ad077fe455b492d0e8f26d6d9a0c46ed4b9295bc6049cbc0f76266"
+    }
+  ]
+}
