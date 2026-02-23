@@ -1,0 +1,6 @@
+{
+  "testcase_id": "157b8633-2f2d-4d4c-8b4e-eeb190d12aa4",
+  "test_name": "Verify that a user can navigate to the Parts of RO page from the Service Parts Counter section and perform actions related to selling parts to a repair order",
+  "page_url": "https://service-stage-app.connectcdk.com/Default.aspx?cid=320006",
+  "steps_count": 11
+}
